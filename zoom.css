@@ -1,0 +1,38 @@
+.img {
+        position: absolute;
+        top: 30px;
+        left: 50px;
+        width: 290px;
+        height: 280px;
+}
+
+.img1 {
+        position: absolute;
+        top: 30px;
+        left: 490px;
+        width: 290px;
+        height: 280px;
+}
+
+.img2 {
+        position: absolute;
+        top: 30px;
+        left: 950px;
+        width: 290px;
+        height: 280px;
+}
+
+.zoom {
+        width: 400px;
+        height: 380px;
+}
+
+.zoom1 {
+        width: 400px;
+        height: 380px;
+}
+
+.zoom2 {
+        width: 400px;
+        height: 380px;
+}
